@@ -1,3 +1,5 @@
+This is a rental website for cameras and lenses with authentication, authorization, CRUD functions, and an admin dashboard for monthly statistics, built using Nodejs, Nest JS, SQL DB, and TypeScript.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
